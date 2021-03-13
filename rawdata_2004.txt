@@ -1,0 +1,264 @@
+Aruba	22569.97499
+Afghanistan	211.3821169
+Angola	1255.564045
+Albania	2373.579844
+Andorra	37969.17499
+Arab World	3134.840632
+United Arab Emirates	36333.24984
+Argentina	4277.721351
+Armenia	1191.91902
+American Samoa	8578.944723
+Antigua and Barbuda	11448.53652
+Australia	30430.67644
+Austria	36821.52147
+Azerbaijan	1045.009379
+Burundi	128.3366128
+Belgium	35364.37533
+Benin	797.31268
+Burkina Faso	418.376885
+Bangladesh	475.2919198
+Bulgaria	3389.707049
+Bahrain	15846.54414
+"Bahamas, The"	28395.92466
+Bosnia and Herzegovina	2814.999895
+Belarus	2378.623286
+Belize	3802.295808
+Bermuda	70359.31911
+Bolivia	967.406992
+Brazil	3637.462389
+Barbados	12512.53251
+Brunei Darussalam	21902.08805
+Bhutan	1068.421776
+Botswana	5073.53765
+Central African Republic	320.7374603
+Canada	32034.30774
+Central Europe and the Baltics	7171.174169
+Switzerland	53340.14768
+Channel Islands	56753.3862
+Chile	6194.853107
+China	1508.668098
+Cote d'Ivoire	922.8552224
+Cameroon	1009.94312
+"Congo, Dem. Rep."	194.0399624
+"Congo, Rep."	1326.596688
+Colombia	2782.623185
+Comoros	1061.079101
+Cabo Verde	2024.275248
+Costa Rica	4385.390719
+Caribbean small states	6459.590803
+Cuba	3395.71205
+Curacao	
+Cayman Islands	
+Cyprus	23792.62136
+Czech Republic	11749.85266
+Germany	34044.05363
+Djibouti	863.2316123
+Dominica	5217.230416
+Denmark	46511.59833
+Dominican Republic	2487.329061
+Algeria	2609.952823
+East Asia & Pacific (excluding high income)	1428.07041
+Early-demographic dividend	1554.864951
+East Asia & Pacific	4574.644682
+Europe & Central Asia (excluding high income)	3392.550806
+Europe & Central Asia	18114.91015
+Ecuador	2691.278081
+"Egypt, Arab Rep."	1062.158092
+Euro area	30948.95637
+Eritrea	407.7699765
+Spain	24861.2828
+Estonia	8912.992195
+Ethiopia	136.4662556
+European Union	26263.75235
+Fragile and conflict affected situations	929.3989807
+Finland	37702.84538
+Fiji	3334.931667
+France	33741.26515
+Faroe Islands	35467.17547
+"Micronesia, Fed. Sts."	2253.092614
+Gabon	5739.583526
+United Kingdom	40290.31397
+Georgia	1305.047486
+Ghana	417.5081649
+Gibraltar	
+Guinea	407.3003371
+"Gambia, The"	642.7549298
+Guinea-Bissau	405.0751184
+Equatorial Guinea	6152.131238
+Greece	21955.10414
+Grenada	5741.598633
+Greenland	32023.45221
+Guatemala	1889.691824
+Guam	24395.79762
+Guyana	1056.423886
+High income	31559.03964
+"Hong Kong SAR, China"	24928.10037
+Honduras	1217.818021
+Heavily indebted poor countries (HIPC)	428.3745502
+Croatia	9661.169574
+Haiti	663.7946963
+Hungary	10285.79363
+IBRD only	1926.921759
+IDA & IBRD total	1622.777266
+IDA total	558.0860414
+IDA blend	786.0445141
+Indonesia	1150.261315
+IDA only	440.4379373
+Isle of Man	35492.43553
+India	627.7742473
+Not classified	
+Ireland	47631.01069
+"Iran, Islamic Rep."	2756.198742
+Iraq	1391.963489
+Iceland	47367.27817
+Israel	19896.81773
+Italy	31259.7165
+Jamaica	3733.801412
+Jordan	2044.962623
+Japan	37688.72234
+Kazakhstan	2874.288291
+Kenya	451.6687159
+Kyrgyz Republic	433.2349766
+Cambodia	408.5138263
+Kiribati	1131.140005
+St. Kitts and Nevis	10942.72823
+"Korea, Rep."	16496.12009
+Kuwait	27011.72765
+Latin America & Caribbean (excluding high income)	4073.762944
+Lao PDR	417.9285042
+Lebanon	4630.789572
+Liberia	286.0649989
+Libya	5800.597969
+St. Lucia	6591.849178
+Latin America & Caribbean	4309.793949
+Least developed countries: UN classification	404.7553101
+Low income	380.122713
+Liechtenstein	100265.9551
+Sri Lanka	1065.784437
+Lower middle income	749.8052348
+Low & middle income	1549.226646
+Lesotho	753.3807868
+Late-demographic dividend	2430.661489
+Lithuania	6700.327192
+Luxembourg	75716.35108
+Latvia	6363.723387
+"Macao SAR, China"	22446.33637
+St. Martin (French part)	
+Morocco	1952.90183
+Monaco	123519.806
+Moldova	897.4499588
+Madagascar	284.4876464
+Maldives	3941.431136
+Middle East & North Africa	3738.733873
+Mexico	7484.486542
+Marshall Islands	2456.244952
+Middle income	1658.241571
+North Macedonia	2762.560358
+Mali	440.1684418
+Malta	15197.05661
+Myanmar	217.5942826
+Middle East & North Africa (excluding high income)	1981.102876
+Montenegro	3380.165121
+Mongolia	797.9786853
+Northern Mariana Islands	21136.84799
+Mozambique	383.2701642
+Mauritania	803.7776421
+Mauritius	5388.065784
+Malawi	282.5670846
+Malaysia	4952.212975
+North America	40766.67325
+Namibia	3396.911932
+New Caledonia	
+Niger	286.4900222
+Nigeria	1007.874328
+Nicaragua	1080.268112
+Netherlands	40362.39478
+Norway	57603.83602
+Nepal	286.1575938
+Nauru	
+New Zealand	25420.23488
+OECD members	28740.87238
+Oman	10126.16678
+Other small states	6748.585701
+Pakistan	687.8364171
+Panama	4592.152614
+Peru	2417.035501
+Philippines	1121.489632
+Palau	8314.602104
+Papua New Guinea	618.0368977
+Poland	6681.386472
+Pre-demographic dividend	644.8140081
+Puerto Rico	20988.99233
+"Korea, Dem. People¡¯s Rep."	
+Portugal	18031.00042
+Paraguay	1679.497171
+West Bank and Gaza	1422.190886
+Pacific island small states	2359.880621
+Post-demographic dividend	32512.03615
+French Polynesia	
+Qatar	42124.82901
+Romania	3494.944517
+Russian Federation	4102.364833
+Rwanda	273.7605189
+South Asia	613.9477974
+Saudi Arabia	11185.13897
+Sudan	573.3069261
+Senegal	940.5516918
+Singapore	27608.53737
+Solomon Islands	867.1260824
+Sierra Leone	266.5695675
+El Salvador	2278.431843
+San Marino	59562.88874
+Somalia	
+Serbia	3502.802924
+Sub-Saharan Africa (excluding high income)	870.270021
+South Sudan	
+Sub-Saharan Africa	878.8009112
+Small states	6397.651488
+Sao Tome and Principe	745.3154519
+Suriname	3006.183233
+Slovak Republic	10671.82186
+Slovenia	17233.13856
+Sweden	42821.67314
+Eswatini	2699.133402
+Sint Maarten (Dutch part)	
+Seychelles	10176.65871
+Syrian Arab Republic	1407.178424
+Turks and Caicos Islands	18187.22097
+Chad	454.3360852
+East Asia & Pacific (IDA & IBRD countries)	1443.431609
+Europe & Central Asia (IDA & IBRD countries)	3749.111923
+Togo	412.589392
+Thailand	2660.126998
+Tajikistan	311.6273248
+Turkmenistan	1453.916238
+Latin America & the Caribbean (IDA & IBRD countries)	4171.966024
+Timor-Leste	453.4788295
+Middle East & North Africa (IDA & IBRD countries)	1987.279668
+Tonga	2301.562163
+South Asia (IDA & IBRD)	613.9477974
+Sub-Saharan Africa (IDA & IBRD countries)	878.8009112
+Trinidad and Tobago	10293.80541
+Tunisia	3111.382703
+Turkey	6101.471608
+Tuvalu	2182.078388
+Tanzania	459.2592825
+Uganda	296.0143006
+Ukraine	1366.016476
+Upper middle income	2484.367885
+Uruguay	4120.556611
+United States	41712.80107
+Uzbekistan	465.1198869
+St. Vincent and the Grenadines	4810.298503
+"Venezuela, RB"	4325.696756
+British Virgin Islands	
+Virgin Islands (U.S.)	35024.47749
+Vietnam	546.9096058
+Vanuatu	1788.087167
+World	6821.774915
+Samoa	2353.548219
+Kosovo	2086.537325
+"Yemen, Rep."	709.9653061
+South Africa	4833.627517
+Zambia	538.5915064
+Zimbabwe	482.9984113
